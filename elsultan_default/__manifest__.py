@@ -43,7 +43,7 @@
         #'git@github.com:jobiols/odoo-jeo-ce.git',
         'https://github.com/regaby/odoo-custom.git -b 16.0',
         ## localización
-        'https://github.com/odoo-mastercore/odoo-venezuela.git -b 16.0'
+        'https://github.com/odoo-mastercore/odoo-venezuela.git -b 16.0',
 
         ## Modulos OCA
         'https://github.com/OCA/account-financial-reporting.git -b 16.0',
