@@ -9,7 +9,7 @@
    :alt: License: AGPL-3
 
 ========
-TEST V16
+Odoo CE V17
 ========
 
 
