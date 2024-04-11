@@ -46,26 +46,8 @@
         ##'https://github.com/odoo-mastercore/odoo-venezuela.git -b 16.0',
 
         ## Addons
-        'https://github.com/OCA/account-financial-reporting.git -b 17.0',
-        'https://github.com/OCA/reporting-engine.git -b 17.0',
-        'https://github.com/OCA/server-ux.git -b 17.0',
-        'https://github.com/OCA/mis-builder.git -b 17.0',
-        'https://github.com/OCA/sale-workflow.git -b 17.0',
-        'https://github.com/OCA/web.git -b 17.0',
-        'https://github.com/OCA/contract.git -b 17.0',
-        'https://github.com/OCA/manufacture.git -b 17.0',
-        'https://github.com/OCA/manufacture-reporting.git -b 17.0',
-        'https://github.com/OCA/helpdesk -b 17.0',
-        'https://github.com/OCA/bank-statement-import -b 17.0',
-        'https://github.com/OCA/report-print-send.git -b 17.0',
-        'https://github.com/OCA/project -b 17.0',
-        'https://github.com/OCA/project-reporting -b 17.0',
-        'https://github.com/OCA/purchase-workflow -b 17.0',
-        'https://github.com/Yenthe666/auto_backup.git yenthe666/auto_backup -b 17.0',
-        'https://github.com/OCA/e-commerce -b 17.0',
-        'https://github.com/OCA/social.git -b 17.0',
-        'https://github.com/OCA/commission.git -b 17.0',
-        'https://github.com/CybroOdoo/CybroAddons.git -b 17.0',
+        "https://github.com/CybroOdoo/CybroAddons.git -b 17.0",
+        "https://github.com/Yenthe666/auto_backup -b 17.0",
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
