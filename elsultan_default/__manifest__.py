@@ -40,8 +40,8 @@
     "port": "8069",
     "git-repos": [
         "https://github.com/Gabriel-Rivas/cl-elsultan.git",
-        #'git@github.com:jobiols/odoo-jeo-ce.git',
-        'https://github.com/regaby/odoo-custom.git -b 17.0',
+        ##'git@github.com:jobiols/odoo-jeo-ce.git',
+        ##'https://github.com/regaby/odoo-custom.git -b 17.0',
         ## localización
         ##'https://github.com/odoo-mastercore/odoo-venezuela.git -b 16.0',
 
