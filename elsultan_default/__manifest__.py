@@ -42,12 +42,30 @@
         "https://github.com/Gabriel-Rivas/cl-elsultan.git",
         ##'git@github.com:jobiols/odoo-jeo-ce.git',
         ##'https://github.com/regaby/odoo-custom.git -b 17.0',
-        ## localización
-        ##'https://github.com/odoo-mastercore/odoo-venezuela.git -b 16.0',
+        
+        ## localización Argentina ADHOC
+       	'https://github.com/ingadhoc/partner.git -b 17.0',					
+        'https://github.com/ingadhoc/sale.git -b 17.0',					
+        'https://github.com/ingadhoc/odoo-argentina.git -b 17.0',
+        'https://github.com/ingadhoc/odoo-argentina-ce -b 17.0',
+        'https://github.com/ingadhoc/argentina-sale.git -b 17.0',					
+        'https://github.com/ingadhoc/stock.git -b 17.0',					
+        'https://github.com/ingadhoc/product.git -b 17.0',					
+        'https://github.com/ingadhoc/purchase.git -b 17.0',					
+        'https://github.com/ingadhoc/account-financial-tools.git -b 17.0',					
+        'https://github.com/ingadhoc/account-payment.git -b 17.0',										
+        'https://github.com/ingadhoc/account-invoicing.git -b 17.0',					
+        'https://github.com/ingadhoc/multi-store.git -b 17.0',					
+        'https://github.com/ingadhoc/miscellaneous.git -b 17.0',					
+        'https://github.com/ingadhoc/multi-company.git -b 17.0',					
+        'https://github.com/ingadhoc/project.git -b 17.0',					
+        'https://github.com/ingadhoc/website.git -b 17.0',					
+        'https://github.com/ingadhoc/aeroo_reports.git -b 17.0',
 
         ## Addons
-        "https://github.com/CybroOdoo/CybroAddons.git -b 17.0",
-        "https://github.com/Yenthe666/auto_backup -b 17.0",
+        ##"https://github.com/CybroOdoo/CybroAddons.git -b 17.0",
+        'https://github.com/Yenthe666/auto_backup -b 17.0',
+        'https://github.com/plugberry/mercadopago -b 17.0',
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
